@@ -11,3 +11,7 @@ int main() {
   bool cool = true;
 }
 ```
+
+I did:
+ - [x] Nothing
+ - [ ] Something
